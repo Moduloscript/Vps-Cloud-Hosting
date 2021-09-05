@@ -1,0 +1,10 @@
+{
+  "name": "Vps",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "moduloscript <maduemeka254@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "parcel-bundler": "1.12.4"
+  }
+}
